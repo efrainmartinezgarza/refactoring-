@@ -1,0 +1,32 @@
+
+.div-exterior{
+
+  /* Box model */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 98vh; 
+  margin: 0px;
+
+  /* Visual */
+  background-color: #FFDDC2; 
+  background-image: url('./utiles.jpg');
+  background-size: 50%; 
+  background-position: center; 
+
+}
+
+.div-contenido{
+
+  /* Box model */
+  padding: 5%;
+
+  /* Visual */
+  background-color: #687EBC;
+  border-radius: 2vw;
+  border: 12px solid #3f4f7b;
+
+}
+
+
+

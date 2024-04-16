@@ -1,0 +1,13 @@
+.text-title{
+
+    /* Box model */
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    /* Tipografía*/
+    font-family: "Karla", Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: black;
+    text-align: center;
+    
+}
