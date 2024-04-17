@@ -10,7 +10,7 @@
 
   /* Visual */
   background-color: #FFDDC2; 
-  background-image: url('./utiles.jpg');
+  background-image: url('./Images/utiles.jpg');
   background-size: 50%; 
   background-position: center; 
 
@@ -27,6 +27,5 @@
   border: 12px solid #3f4f7b;
 
 }
-
 
 
